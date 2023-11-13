@@ -1,0 +1,10 @@
+C:\Github\Projects\DataTransfer\DataTransfer\DataTransfer\bin\Debug\DataTransfer.exe.config
+C:\Github\Projects\DataTransfer\DataTransfer\DataTransfer\bin\Debug\DataTransfer.exe
+C:\Github\Projects\DataTransfer\DataTransfer\DataTransfer\bin\Debug\DataTransfer.pdb
+C:\Github\Projects\DataTransfer\DataTransfer\DataTransfer\obj\Debug\DataTransfer.csproj.AssemblyReference.cache
+C:\Github\Projects\DataTransfer\DataTransfer\DataTransfer\obj\Debug\DataTransfer.Form1.resources
+C:\Github\Projects\DataTransfer\DataTransfer\DataTransfer\obj\Debug\DataTransfer.Properties.Resources.resources
+C:\Github\Projects\DataTransfer\DataTransfer\DataTransfer\obj\Debug\DataTransfer.csproj.GenerateResource.cache
+C:\Github\Projects\DataTransfer\DataTransfer\DataTransfer\obj\Debug\DataTransfer.csproj.CoreCompileInputs.cache
+C:\Github\Projects\DataTransfer\DataTransfer\DataTransfer\obj\Debug\DataTransfer.exe
+C:\Github\Projects\DataTransfer\DataTransfer\DataTransfer\obj\Debug\DataTransfer.pdb
